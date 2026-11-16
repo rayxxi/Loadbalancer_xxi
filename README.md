@@ -11,3 +11,9 @@
 | View Configuration, Logs and Support menus | Layer 7 - Virtual Services |
 | ![Compact icon rail](screenshots/05-compact-icon-rail.png) | ![Mobile menu drawer](screenshots/06-mobile-menu-drawer.png) |
 | Compact icon-only sidebar | Mobile menu drawer |
+
+### Live traffic graphs
+
+![Network throughput, system load, memory and disk graphs](screenshots/07-throughput-and-system-graphs.png)
+
+System Overview graphs over the last hour: network throughput (RX/TX kB/s) with live traffic, plus system load, memory and disk usage.
